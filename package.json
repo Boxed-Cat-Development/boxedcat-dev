@@ -1,0 +1,28 @@
+{
+  "name": "@boxedcat/dev",
+  "version": "0.0.1",
+  "description": "Complete collection of components and utilities created & used by Boxed Cat Development.",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "homepage": "https://www.boxedcat.co.uk/dev",
+  "repository": {
+    "url": ""
+  },
+  "scripts": {
+    "build": "tsup"
+  },
+  "keywords": [
+    "boxedcat",
+    "boxed cat",
+    "boxedcatdev",
+    "boxed cat development",
+    "abcd"
+  ],
+  "author": "boxedcatdev",
+  "license": "MIT",
+  "devDependencies": {
+    "tsup": "^8.3.5",
+    "typescript": "^5.7.2"
+  }
+}
