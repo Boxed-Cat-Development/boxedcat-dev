@@ -1,6 +1,6 @@
 {
   "name": "boxedcat-dev",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Complete collection of components and utilities created & used by Boxed Cat Development.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
