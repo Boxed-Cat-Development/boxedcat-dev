@@ -1,4 +1,4 @@
-# @boxedcat/dev
+# boxedcat-dev
 
 Complete collection of components and utilities created & used by Boxed Cat Development.
 
