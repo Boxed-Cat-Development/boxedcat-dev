@@ -1,13 +1,13 @@
 {
   "name": "@boxedcat/dev",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Complete collection of components and utilities created & used by Boxed Cat Development.",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
   "types": "./dist/index.d.ts",
   "homepage": "https://www.boxedcat.co.uk/dev",
   "repository": {
-    "url": ""
+    "url": "https://github.com/Boxed-Cat-Development/boxedcat-dev"
   },
   "scripts": {
     "build": "tsup"
